@@ -10,9 +10,14 @@ Uma empresa de cartão de crédito nos enviaram Dataset que inclui dados demogr�
 As linhas são rotuladas de acordo se no mês seguinte ao período de dados, o proprietário da conta ficou inadimplente, ou seja, não fez o pagamento mínimo.
 
 Etapas da Exploração e limpeza de dados:
+
 1- Saber quantas colunas os dados contêm. Podem ser de características de cada cliente, resposta ou metadados.
+
 2- Quantas linhas(amostras) o Dataset possui.
+
 3- Que tipos de características existem. Quais são as categóricas e quais são numéricas?
+
 4- Quais são as aparências dos dados segundo essas características? 
+
 5- Verificar se há dados faltantes, nulos ou duplicados.
 
