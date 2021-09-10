@@ -1,4 +1,4 @@
-# Projeto_Ciencia_de-_dados
+# Projeto_Ciencia_de_dados
 Data Science
 
 Projeto :  Desenvolver um modelo que preveja se uma conta ficará inadimplente no próximo mês, de acordo com dados demográficos e históricos.
